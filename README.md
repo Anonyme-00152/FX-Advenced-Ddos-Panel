@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=FX$&fontSize=90&animation=fadeIn" alt="Bannière FX-Advenced-Ddos-Panel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=FX-Advenced-Ddos-Panel&fontSize=90&animation=fadeIn" alt="Bannière FX-Advenced-Ddos-Panel" />
 </div>
 
 <h1 align="center">🔥 Nouvelle Tool - FX-Advenced-Ddos-Panel 🔥</h1>
